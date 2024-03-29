@@ -1,9 +1,8 @@
 ---
 name: Feature request 1
 about: In-Game voice chat
-title: ''
-labels: ''
-assignees: ''
+title: 'Introduce Voice Chat for in-game communication'
+labels: 'Voice chat', 'Gaming'
 
 ---
 
