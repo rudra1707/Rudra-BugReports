@@ -1,7 +1,9 @@
 ---
 name: Bug report 2
 about: Instagram Application not loading properly
+title: ''
 labels: bug
+assignees: ''
 
 ---
 
