@@ -1,35 +1,34 @@
 ---
 name: Bug report
-about: 'Instagram Application not loading properly '
+about: Changes are not being made to my Instagram account on my android phon
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-I am having trouble getting stories, videos, and other types of content to load on the Instagram application.
+**Describe the bug** 
+When I am trying to update information on my Instagram account, changes are not being made.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Open the Instagram Application.
-2. Explore the application's several features, such as the feed, profiles, and stories.
-3. Try to see if any content is loading slowly or fails.
-4. Keep track of the instances and frequency in which the loading problems occur.
+**To Reproduce Steps to reproduce the behavior:**
+Open the Instagram Application.
+Go to the profile section.
+Click on Edit profile.
+Make the necessary changes.
+Chick on the tick indicating that the changes are done.
+Check weather the changes are been made successfully.
 
 **Expected behavior**
-The Instagram app's content should load quickly and without any issues. It should be easy for users to view stories, reels, photos, and other types of content.
+After the changes are been made check if it has been updates successfully.
 
-**Actual Behaviour**
-The Instagram app's content loads slowly and appears with issues. It makes it hard for users to view stories, reels, photos, and other types of content.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Actual Behavior**
+After making the changes, the changes are not updated on the profile.
 
 **Smartphone**
- - Device: Android phone - Samsung S10+
- - Instagram Version: 323.0.0.35.65
+Device: Android phone - Samsung S10+
+Instagram Version: 323.0.0.35.65
 
 **Additional context**
-1) It's possible that users with different devices or from various areas are having similar loading problems.
-2) It appears that loading problems arise when there is internet access.
+No error messages were displayed.
+My chats were not loading.
+The other functions were working properly.
