@@ -1,6 +1,9 @@
 ---
 name: Feature request 1
 about: In-Game voice chat
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
