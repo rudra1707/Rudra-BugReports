@@ -1,9 +1,6 @@
 ---
 name: Feature request 2
 about: Introduction of multiplayer challanges in offline mode gaming
-title: ''
-labels: ''
-assignees: ''
 
 ---
 
