@@ -1,35 +1,35 @@
 ---
 name: Bug report
-about: Changes are not being made to my Instagram account on my android phon
+about: 'Instagram Application not loading properly '
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
 **Describe the bug**
-When I am trying to update information on my Instagram account, changes are not being made.
+I am having trouble getting stories, videos, and other types of content to load on the Instagram application.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1) Open the Instagram Application.
-2) Go to the profile section.
-3) Click on Edit profile.
-4) Make the necessary changes.
-5) Chick on the tick indicating that the changes are done.
-6) Check weather the changes are been made successfully.
+1. Open the Instagram Application.
+2. Explore the application's several features, such as the feed, profiles, and stories.
+3. Try to see if any content is loading slowly or fails.
+4. Keep track of the instances and frequency in which the loading problems occur.
 
 **Expected behavior**
-After the changes are been made check if it has been updates successfully.
+The Instagram app's content should load quickly and without any issues. It should be easy for users to view stories, reels, photos, and other types of content.
 
-**Actual Behavior**
-After making the changes, the changes are not updated on the profile.
+**Actual Behaviour**
+The Instagram app's content loads slowly and appears with issues. It makes it hard for users to view stories, reels, photos, and other types of content.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
 **Smartphone**
  - Device: Android phone - Samsung S10+
  - Instagram Version: 323.0.0.35.65
 
 **Additional context**
-1) No error messages were displayed.
-2) My chats were not loading.
-3) The other functions were working properly.
+1) It's possible that users with different devices or from various areas are having similar loading problems.
+2) It appears that loading problems arise when there is internet access.
